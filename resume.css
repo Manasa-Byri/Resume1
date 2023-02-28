@@ -1,0 +1,41 @@
+div
+{
+    border-radius: 1px;
+    }
+#header
+{
+    position: fixed;
+    z-index: 1;
+    color:black;
+    text-align: center;
+    height:35px;
+    width: 90%;
+    background-color: white;
+    margin-bottom: 20px
+    
+    }
+    #size{
+        font-size: 20px;
+    }
+    .head{
+        text-align:center;
+    }
+    table
+    {
+    border: 1px dashed black;
+    }
+    td
+    {
+    padding: 2px;
+    border: 1px solid black;
+    }
+    th
+    {
+    border: 1px solid black;
+    font-weight:bold;
+    }
+    hr{
+        height:3px;
+        background: black;
+    }
+   
